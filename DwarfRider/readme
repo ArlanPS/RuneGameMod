@@ -1,0 +1,41 @@
+================================================================================================
+Title : Standard - Dwarves Riders
+Version : Beta 0.1
+Author : Walleck
+Thanks to : Boris Karnov, Jetrell, Mute_Box, Unseen and Warlawk.
+Type : Creatures
+E-mail : walleck@odinsblade.com Or walleck_newzelly@hotmail.com
+Description : 10 Dwarves riders at all, 6 riding Snowbeast, 3 Riding SnowBeastTrial and 1 riding a custom snowbeast (Saugron). Enjoy!
+================================================================================================
+--- Play Information ---
+Game : Rune
+Single Player : Yes
+Deathmatch : Yes
+Team Match : Yes
+New Sounds :Yes
+New Graphics : Yes
+Known bugs : After kill the Rider, and if you stay below him and the dwarf appear, maybe you will be crushed or the dwarf will appear without shield or weapon, but Rarely Happens.
+Released : January 17, 2011
+Time Spent	: Many hours
+
+===============================================================================================
+
+--- Construction ---
+Editor(s) used :RuneED
+Program(s) used: MilkShape 3D 1.8.4, PYGMALION Alpha 0.5, Photoshop CS5 and Adobe Audition 3.0
+
+================================================================================================
+
+Installation
+1)Unzip and put the file into your Rune System directory
+2)Open your Rune.ini and add ServerPackages=DwarfRider and EditPackages=DwarfRider
+
+All Dwarves are in ScriptPawn> SnowBeast> DwarfRider, except the SkeggiSaugron that is under Sark Class.
+
+Note: To make it work, you'll need the Sparta Weapon made by Unseen.
+http://www.rune-library.com/e107/download/category/47/creatures/
+http://www.rune-library.com/e107/e107_plugins/download/download.php?view.573
+===========================================================================================================
+Rune (c)2000 Human Head Studios. All Rights Reserved. 
+RUNE and RUNE-Halls Of Valhalla are registered trademarks of Human Head Studios.
+All other trademarks and trade names are properties of their respective owners.
