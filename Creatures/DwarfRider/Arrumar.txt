@@ -1,0 +1,22 @@
+Carçaças diferentes, Snow e o Snow magrelo/fudido
+Skin
+AI
+Spear
+
+COMBAT
+Throw Trajectory 1 quanto maior, mais chances de erra. Se deixar 1 vai sempre acertar.
+Throw Range 10
+Lungeatk False
+Combat Range 1.000000
+Melee Range 90.000000
+PaceRange 100.000000
+
+Copy do Sark conrack
+
+
+AI
+
+
+
+
+
